@@ -1,2 +1,1 @@
-# my_test
-This repository is just for some testing.
+# This repository is just for some testing, nothing really important... yet...
